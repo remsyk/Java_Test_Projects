@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

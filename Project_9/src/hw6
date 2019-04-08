@@ -1,0 +1,23 @@
+*** For 3/28/2017 (HWK6)
+
+a) Ask the user to enter a number to add to a jar. Validate the user's input   XXXXXXXXXXX
+using a Regular Expression.
+
+b) Ask the user to enter a label to give to a LabeledJar. The label can only   XXXXXXXXXXXXXXX
+contain letters and numbers and no special characters such as "/", etc. Again,
+validate the user's input using a Regular Expression.
+
+c) Write a few jars to a file, exit the program, re-enter the program  
+and retrieve the jars from the file.  Please keep the following steps in mind:
+
+  1) Let the user select the file name.  If the file exists, be sure it is OK to
+     overwrite the file.
+
+  2) Before reading the jars from the file, use the "file chooser" object to 
+     allow the user to specify the file name.
+
+d) Overload the hashCode method of the class JarType to return an "appropriate" hash code.
+(for hints, be sure to see the hand-out "The hashCode() Contract" on the website)
+
+e) Try to create a Java Archive (jar) file for your "jar" project -- no need to hand it in.
+   You should be able to run your MyProg from your jar file.
